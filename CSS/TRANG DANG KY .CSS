@@ -1,0 +1,217 @@
+body {
+  margin: 1px;
+}
+/*------------------------Khung Header------*/
+#tong {
+  display: inline-block;
+  background-color: #f8f9fa;
+  width: 100%;
+  height: 800px;
+}
+#tieude {
+  width: 100%;
+  height: 100px;
+  background-color: #cd1818;
+}
+#logo {
+  float: left;
+  width: 160px;
+  height: 80px;
+  background-position: -2px -7px;
+  margin-left: 120px;
+  margin-top: 30px;
+  background-image: url(/IMAGE/wbb\ logo.png);
+  background-size: 100% 50px;
+  background-repeat: no-repeat;
+  text-decoration: none;
+}
+.dangnhap {
+  float: left;
+  color: white;
+
+  margin-top: 45px;
+  margin-left: 10px;
+
+  height: 100%;
+  font-size: 25px;
+  font-weight: 900;
+}
+.trogiup {
+  float: right;
+  color: white;
+  margin-top: 45px;
+  margin-right: 50px;
+  height: 100%;
+  font-size: 20px;
+  font-weight: 500;
+}
+/*-------------------------------dang nhap-----------*/
+#khung-dn {
+  background-image: url(/IMAGE/signin.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 600px;
+  width: 100%;
+  float: left;
+}
+#dn-1 {
+  float: left;
+  height: 350px;
+  width: 650px;
+  margin-left: 440px;
+  margin-top: 85px;
+}
+#tieude-dn {
+  width: 100%;
+  height: 50px;
+}
+#nd {
+  margin-left: 30px;
+  font-size: 25px;
+  margin-top: 15px;
+  float: left;
+  text-align: center;
+  text-decoration: none;
+  align-items: center;
+  font-weight: 900;
+  color: rgb(243, 63, 9);
+  text-transform: uppercase;
+  user-select: none;
+}
+
+.tk1 {
+  margin-top: 60px;
+  margin-left: 120px;
+  width: 400px;
+  height: 40px;
+  float: left;
+}
+.pass {
+  float: left;
+  width: 400px;
+  height: 40px;
+  margin-left: 120px;
+  margin-top: 25px;
+}
+.bt1 {
+  margin-top: 25px;
+  margin-left: 120px;
+  width: 410px;
+  height: 40px;
+  float: left;
+  background-color: #cd1818;
+}
+.quenmk {
+  float: left;
+  font-size: 18px;
+  text-decoration: none;
+  width: 150px;
+  margin-left: 120px;
+  margin-top: 5px;
+}
+.dk {
+  float: right;
+  font-size: 18px;
+  text-decoration: none;
+  width: 150px;
+  margin-right: 35px;
+  margin-top: 5px;
+}
+/*--------------footer----------*/
+#footer {
+  background-color: black;
+  width: 100%;
+  height: 380px;
+  float: left;
+  margin-top: 10px;
+  border-top: 6px solid #da330a;
+}
+.tieude-f {
+  background-color: black;
+  float: left;
+  width: 100%;
+  height: 60px;
+}
+#tieudef {
+  margin-left: 30px;
+  font-size: 28px;
+  margin-top: 15px;
+  float: left;
+  text-align: center;
+  text-decoration: none;
+  align-items: center;
+  font-weight: 1200;
+  color: rgb(243, 63, 9);
+  text-transform: uppercase;
+  user-select: none;
+}
+#tt {
+  background-color: black;
+  float: left;
+  width: 300px;
+  height: 300px;
+  margin-top: 40px;
+  margin-left: 120px;
+}
+#cs {
+  background-color: black;
+  float: left;
+  width: 300px;
+  height: 300px;
+  margin-top: 40px;
+  margin-left: 20px;
+}
+#fii {
+  background-color: blue;
+  float: left;
+  width: 600px;
+  height: 180px;
+  margin-left: 100px;
+  margin-top: 10px;
+}
+#fss {
+  background-color: black;
+  float: left;
+  width: 600px;
+  height: 170px;
+  margin-top: 10px;
+  margin-left: 100px;
+}
+.l1 {
+  list-style-type: none;
+  margin-top: 20px;
+}
+.aa {
+  font-size: 20px;
+  text-decoration: none;
+  font-weight: 900;
+  color: white;
+}
+.ii {
+  font-size: 20px;
+  font-weight: 900;
+  color: white;
+  float: left;
+  margin-top: 10px;
+}
+#gg {
+  background-color: black;
+  width: 80px;
+  height: 80px;
+  float: left;
+  margin-left: 60px;
+  margin-top: 10px;
+}
+.pp {
+  font-size: 22px;
+  color: white;
+}
+#pb-sale {
+  float: left;
+  width: 100%;
+  height: 200px;
+}
+.imgb {
+  width: 100%;
+  height: 100%;
+}
